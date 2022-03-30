@@ -1,0 +1,54 @@
+.App {
+  padding: 20px;
+}
+
+.box {
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  border: 1px solid gray;
+}
+
+.test {
+  font-size: 32px;
+}
+
+/* List */
+
+.List,
+.Heading,
+.Upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* Heading */
+
+.Heading__Link {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.Nav-meun {
+  color: white;
+  text-decoration: none;
+}
+
+/* Upload */
+/* 
+.Upload button {
+  margin-top: 10px;
+}
+
+.Upload {
+  width: 150px;
+}
+
+.Upload textarea,
+.Upload button {
+  padding: 0px;
+  width: 100%;
+} 
+*/
